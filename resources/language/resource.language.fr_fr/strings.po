@@ -30,7 +30,7 @@ msgstr "Certaines parties de cette extension peuvent ne pas être légales dans 
 
 msgctxt "#30001"
 msgid "Recommendations"
-msgstr "Recommandations"
+msgstr "Recommendations"
 
 msgctxt "#30002"
 msgid "Enter PIN to watch restricted content"
@@ -184,7 +184,7 @@ msgstr "Voir les séries"
 
 msgctxt "#30042"
 msgid "View for seasons"
-msgstr "Vue pour les saisons"
+msgstr "Voir les saisons"
 
 msgctxt "#30043"
 msgid "View for episodes"
@@ -212,23 +212,23 @@ msgstr "Exporté"
 
 msgctxt "#30054"
 msgid "Profile auto-selection"
-msgstr ""
+msgstr "Sélection automatique du profil"
 
 msgctxt "#30055"
 msgid "Remove auto-selection of profile"
-msgstr ""
+msgstr "Enlèver la sélection automatique du profil"
 
 msgctxt "#30056"
 msgid "Set for auto-selection"
-msgstr ""
+msgstr "Mis comme sélection automatique"
 
 msgctxt "#30057"
 msgid "To set the profile, in the list of profiles open the context menu"
-msgstr ""
+msgstr "Pour mettre ce profil, ouvre le ménu de contexte dans la liste des profiles"
 
 msgctxt "#30058"
 msgid "The profile {} has been set for auto-selection"
-msgstr ""
+msgstr "Le profil {} a été choisi comme sélection automatique "
 
 # Unused 30059
 
@@ -366,7 +366,7 @@ msgstr "Parcourir le contenu par genre et découvrir facilement le contenu simil
 
 msgctxt "#30094"
 msgid "Browse recommendations and pick up on something new you might like."
-msgstr "Parcourir les recommandations et trouver une nouveauté qui pourrait vous plaire."
+msgstr "Parcourir les recommendations et trouver une nouveauté qui pourrait vous plaire."
 
 msgctxt "#30095"
 msgid "All TV Shows"
@@ -774,7 +774,7 @@ msgstr "Exclure de la maj auto"
 
 msgctxt "#30197"
 msgid "Include in auto update"
-msgstr "Inclure dans la maj auto"
+msgstr "Inclure dans la màj auto"
 
 msgctxt "#30198"
 msgid "Exporting new episodes"
@@ -862,7 +862,7 @@ msgstr "Etes-vous sûr de vouloir réinitialiser l'ESN?\r\nSi oui, patientez jus
 
 msgctxt "#30219"
 msgid "Disable notification for synchronization completed"
-msgstr "Désactiver la notification de synchronisation complète"
+msgstr "Désactiver la notification de synchronisation complèté"
 
 msgctxt "#30220"
 msgid "The Kodi library has been updated"
@@ -910,15 +910,15 @@ msgstr "Vérifier les mises à jour maintenant"
 
 msgctxt "#30231"
 msgid "Do you want to check update now?"
-msgstr "Voulez-vous vérifier les mises à jour maintenant?"
+msgstr "Veux-tu vérifier les mises à jour maintenant?"
 
 msgctxt "#30232"
 msgid "Profile maturity rating for {}"
-msgstr ""
+msgstr "Classement de maturité pour {}"
 
 msgctxt "#30233"
 msgid "Only show titles rated [B]{}[/B]."
-msgstr ""
+msgstr "Montrer seulement les titres évalués [B]{}[/B]."
 
 msgctxt "#30234"
 msgid "Install Up Next add-on"
