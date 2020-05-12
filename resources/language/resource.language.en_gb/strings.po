@@ -329,15 +329,15 @@ msgid "Save bookmarks for library items / mark as watched"
 msgstr ""
 
 msgctxt "#30084"
-msgid "Cache item time-to-live (minutes)"
+msgid "Cache objects expire TTL (minutes)"
 msgstr ""
 
 msgctxt "#30085"
-msgid "Cache item time-to-live for metadata (days)"
+msgid "Cache metadata expire TTL (days)"
 msgstr ""
 
 msgctxt "#30086"
-msgid "Cache item time-to-live for my list (minutes)"
+msgid "Cache 'My list' objects expire TTL (minutes)"
 msgstr ""
 
 msgctxt "#30087"
@@ -521,11 +521,11 @@ msgid "Check the logfile for detailed information"
 msgstr ""
 
 msgctxt "#30132"
-msgid "Purge in-memory cache"
+msgid "Clear in-memory cache"
 msgstr ""
 
 msgctxt "#30133"
-msgid "Purge in-memory and on-disk cache"
+msgid "Clear in-memory and on-disk cache"
 msgstr ""
 
 msgctxt "#30134"
